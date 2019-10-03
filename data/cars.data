@@ -3,4 +3,3 @@ train=data/cars_train.txt
 valid=data/cars_test.txt
 names=data/cars.names
 backup=backup/
-eval=coco
