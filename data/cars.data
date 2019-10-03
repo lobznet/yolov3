@@ -1,4 +1,4 @@
-classes=4
+classes=3
 train=data/cars_train.txt
 valid=data/cars_test.txt
 names=data/cars.names
